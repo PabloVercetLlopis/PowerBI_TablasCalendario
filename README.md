@@ -67,17 +67,19 @@ PowerBI_TablasCalendario/
 
 ├─ Data/
 
-│ └─ empleados_rrhh.xlsx
+│ └─ Tickets+Data.xlsx
 │
 
 ├─ Powerbi/
 
-│ └─ Proyecto6_RecursosHumanos.pbix
+│ └─ Tabla Calendario.pbix
 │
 
 ├─ dax/
 
-│ └─ medidas.md
+│ └─ Dim+Calendar+DAX.txt
+
+│ └─ Dim+Calendar+M.txt 
 
 │
 └─ README.md
